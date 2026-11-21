@@ -150,8 +150,8 @@ online-retail-sales-analysis/
 
 Aspiring Data Analyst | Data Analytics | Business Intelligence
 
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
+- GitHub: https://github.com/prianshu-singh
+- LinkedIn: https://www.linkedin.com/in/prianshu-singh27/
 
 ---
 
